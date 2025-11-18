@@ -89,10 +89,7 @@ python src/predict.py --input "<values>"
 
 ## 🧾 Credits  
 - **Developer:** Pranay Bhatnagar  
-- **Dataset:** Add dataset source here (e.g., UCI Pima Diabetes Dataset)  
+- **Dataset:** UCI Pima Diabetes Dataset  
 - **Libraries:** pandas, scikit‑learn, matplotlib  
 
 ---
-
-## 📜 License  
-MIT License (or your preferred license).
